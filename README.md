@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ingsy-dev
+- 👋 Hi, I’m @Inga-dev
 - 👀 I’m interested in building intuitive digital experiences, web development, and educational technologies  
 - 🌱 I’m currently learning learning advanced JavaScript, React, and UI/UX design principles
 - 💞️ I’m looking to collaborate on open source edtech projects, frontend tools, and anything that makes learning more accessible  
